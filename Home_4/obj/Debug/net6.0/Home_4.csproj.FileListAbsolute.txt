@@ -1,0 +1,15 @@
+C:\Users\iquser\Desktop\GIT\Seminar_8\Home_4\obj\Debug\net6.0\Home_4.csproj.AssemblyReference.cache
+C:\Users\iquser\Desktop\GIT\Seminar_8\Home_4\obj\Debug\net6.0\Home_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iquser\Desktop\GIT\Seminar_8\Home_4\obj\Debug\net6.0\Home_4.AssemblyInfoInputs.cache
+C:\Users\iquser\Desktop\GIT\Seminar_8\Home_4\obj\Debug\net6.0\Home_4.AssemblyInfo.cs
+C:\Users\iquser\Desktop\GIT\Seminar_8\Home_4\obj\Debug\net6.0\Home_4.csproj.CoreCompileInputs.cache
+C:\Users\iquser\Desktop\GIT\Seminar_8\Home_4\bin\Debug\net6.0\Home_4.exe
+C:\Users\iquser\Desktop\GIT\Seminar_8\Home_4\bin\Debug\net6.0\Home_4.deps.json
+C:\Users\iquser\Desktop\GIT\Seminar_8\Home_4\bin\Debug\net6.0\Home_4.runtimeconfig.json
+C:\Users\iquser\Desktop\GIT\Seminar_8\Home_4\bin\Debug\net6.0\Home_4.dll
+C:\Users\iquser\Desktop\GIT\Seminar_8\Home_4\bin\Debug\net6.0\Home_4.pdb
+C:\Users\iquser\Desktop\GIT\Seminar_8\Home_4\obj\Debug\net6.0\Home_4.dll
+C:\Users\iquser\Desktop\GIT\Seminar_8\Home_4\obj\Debug\net6.0\refint\Home_4.dll
+C:\Users\iquser\Desktop\GIT\Seminar_8\Home_4\obj\Debug\net6.0\Home_4.pdb
+C:\Users\iquser\Desktop\GIT\Seminar_8\Home_4\obj\Debug\net6.0\Home_4.genruntimeconfig.cache
+C:\Users\iquser\Desktop\GIT\Seminar_8\Home_4\obj\Debug\net6.0\ref\Home_4.dll
