@@ -27,7 +27,7 @@ for(int i = 0; i < FillArray.GetLength(0); i++)
 Console.WriteLine();
 
 int MinRow = SumRow[0];
-for(int i = 0; i < FillArray.GetLength(0)-1; i++)
+for(int i = 0; i < FillArray.GetLength(0); i++)
 {
     if(MinRow > SumRow[i]) MinRow = SumRow[i];
 }
